@@ -15,7 +15,7 @@ False
 {3,4,5}
 {"Hello","World"}
 
-#字典 distionary-> 像是 js 的object
+#字典 distionary-> 像是 js 的object.
 {"apple": "123123"}
 
 #變數名稱
